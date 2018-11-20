@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\War\bin\Debug\netcoreapp2.1\skelecode.deps.json
+C:\Users\John\Desktop\War\bin\Debug\netcoreapp2.1\skelecode.runtimeconfig.json
+C:\Users\John\Desktop\War\bin\Debug\netcoreapp2.1\skelecode.runtimeconfig.dev.json
+C:\Users\John\Desktop\War\bin\Debug\netcoreapp2.1\skelecode.dll
+C:\Users\John\Desktop\War\bin\Debug\netcoreapp2.1\skelecode.pdb
+C:\Users\John\Desktop\War\obj\Debug\netcoreapp2.1\skelecode.csprojAssemblyReference.cache
+C:\Users\John\Desktop\War\obj\Debug\netcoreapp2.1\skelecode.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\War\obj\Debug\netcoreapp2.1\skelecode.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\War\obj\Debug\netcoreapp2.1\skelecode.AssemblyInfo.cs
+C:\Users\John\Desktop\War\obj\Debug\netcoreapp2.1\skelecode.dll
+C:\Users\John\Desktop\War\obj\Debug\netcoreapp2.1\skelecode.pdb
