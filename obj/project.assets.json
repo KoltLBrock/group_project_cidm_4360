@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\John\\Desktop\\War\\skelecode.csproj",
+      "projectUniqueName": "c:\\Users\\John\\Desktop\\fall 2018\\War\\skelecode.csproj",
       "projectName": "skelecode",
-      "projectPath": "c:\\Users\\John\\Desktop\\War\\skelecode.csproj",
+      "projectPath": "c:\\Users\\John\\Desktop\\fall 2018\\War\\skelecode.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\John\\Desktop\\War\\obj\\",
+      "outputPath": "c:\\Users\\John\\Desktop\\fall 2018\\War\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
