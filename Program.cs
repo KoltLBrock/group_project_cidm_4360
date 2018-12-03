@@ -91,13 +91,13 @@ namespace skelecode
                     if(player1.getCards().Count() == 52){
                         //player 1 win case
                         Console.WriteLine("Player 1 won.");
-                        Console.WriteLine(turns);
+                        Console.WriteLine(turns + " turns taken.");
                         runtime = 0;
                         break;
                     }else if(player2.getCards().Count() == 52){
                         //player 2 win case
                         Console.WriteLine("Player 2 won.");
-                        Console.WriteLine(turns);
+                        Console.WriteLine(turns + " turns taken.");
                         runtime = 0;
                         break;
                     }else{
@@ -105,7 +105,7 @@ namespace skelecode
                         Console.WriteLine("Error Early (this shouldnt't happen).");
                         player1.displayCards();
                         player2.displayCards();
-                        Console.WriteLine(turns);
+                        Console.WriteLine(turns + " turns taken.");
                         runtime = 0;
                         break;
                     }
